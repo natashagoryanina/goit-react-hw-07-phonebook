@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Наталия Горянина",
+      "id": "814c972b-e047-4d1f-aeb4-7c22b1535e9a",
+      "number": "+380930602800"
+    },
+    {
+      "name": "Natasha",
+      "id": "88eac1b5-de58-471d-a693-564318ac3202",
+      "number": "+380930602800"
+    },
+    {
+      "name": "dasha ivanova",
+      "id": "6a07d46f-11be-4665-9f4c-ac73e095ab9d",
+      "number": "+380930602800"
+    }
+  ]
+}
